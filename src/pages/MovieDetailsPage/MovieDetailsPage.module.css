@@ -1,0 +1,7 @@
+.linkBack {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: rgb(207, 35, 29);
+  margin-bottom: 16px;
+}
